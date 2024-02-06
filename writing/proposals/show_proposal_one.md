@@ -18,13 +18,11 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Robert Russell 
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
-
+"I adhered to the Allegheny College Honor Code while completing this project."
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -32,8 +30,7 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+A brief look into the various college majors and career futures in the field. 
 
 ## 🔬 Show Details
 
@@ -42,17 +39,17 @@ TODO: Provide all of the required details for your podcast episode.
 TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: Undecided !?
+- **Host**: Robert Russell
+- **Guest**: Allegheny College Dean
 
 ## 📝 Show Objectives
 
 TODO: Provide a list of of at least three objectives for the podcast episode.
 
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**: Better understanding of the options available when deciding a major.
+- **Objective Two**: Understand the decision shouldn't be rush and it is okay to not know exactly what you want yet.
+- **Objective Three**: Understand all things that need to taken into consideration and see from an advisor how they came to their decision.
 
 ## 📚 Sample Questions
 
