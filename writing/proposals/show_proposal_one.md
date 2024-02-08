@@ -34,10 +34,8 @@ A brief look into the various college majors and career futures in the field.
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
+With an allegheny college dean we will discuss the various majors and how to make the major decision.
 
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
 
 - **Title**: Undecided !?
 - **Host**: Robert Russell
@@ -45,7 +43,7 @@ Topic]`.
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
+
 
 - **Objective One**: Better understanding of the options available when deciding a major.
 - **Objective Two**: Understand the decision shouldn't be rush and it is okay to not know exactly what you want yet.
@@ -59,13 +57,13 @@ ask the guest.
 TODO: Provide a justification for why asking this question will achieve one of
 the stated objectives for the podcast episode.
 
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
+- **Question One**: What introductory classes would you recommend to an undecided/first year student take?
+- **Question Two**: Thinking back what questions did you ask to figure out your major decision?
+- **Question Three**: What advice would you give to an undecided student right now?
 
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**: To better equip the student with ideas on what directions to go in terms of classes to take.
+- **Justification for Question Two**: Insight into the mental process of figuring out your major.
+- **Justification for Question Three**:To give a conclusion to the episode and the guest is able to give great insight to our audience.
 
 ## 🎉 Show Description
 
@@ -75,9 +73,8 @@ episode, ensuring that the description is both engaging and informative.
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
+After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision. Aswell as be able to see if they are pursuring the right major for them.
 
-TODO: Write at least two sentences that explain the call to action for this episode.
 
 ## 🦜 References
 
