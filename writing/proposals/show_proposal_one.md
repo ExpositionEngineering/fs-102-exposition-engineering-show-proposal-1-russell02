@@ -51,11 +51,7 @@ With an allegheny college dean we will discuss the various majors and how to mak
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
 
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
 
 - **Question One**: What introductory classes would you recommend to an undecided/first year student take?
 - **Question Two**: Thinking back what questions did you ask to figure out your major decision?
@@ -70,10 +66,14 @@ the stated objectives for the podcast episode.
 TODO: Write at least three to five paragraphs that describe the content of the
 episode, ensuring that the description is both engaging and informative.
 
+The podcast episode titled "Undecided!?" has the goal of providing inspiration and clarity for undecided and/or first year college students. In this episode we will be able to give an overview of various majors. Allowing for the audience to look further and see what career options follow the degree. While helping expand on stratagies and questions when makinging these major decisions.
 
+The show will be hosted by myself and the guest I am hoping will be Erin o'Day-Frye. Having Erin on the show would be a great addition because she works with plenty incoming undecided students so her experience will be perfect to share. Speaking on how much time our college allows for a decision and what other colleges may have in place. All while talking about what questons to ask yourself during the process of deciding. Even diving into what Erin did to decide herself.
+
+I believe as a an episode on our podcast it would be best suited as an introductory episode. Where we meet most of our audience at where they are curently at undecided. Giving a smooth Transition into the following episodes because we are setting the base early.
 ## 📢 Call to Action
 
-After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision. Aswell as be able to see if they are pursuring the right major for them.
+After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision. Aswell as be able to see if they are pursuring the right major for them. 
 
 
 ## 🦜 References
