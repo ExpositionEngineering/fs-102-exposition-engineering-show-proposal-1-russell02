@@ -72,8 +72,8 @@ I believe as a an episode on our podcast it would be best suited as an introduct
 
 ## 📢 Call to Action
 
-After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision. 
-Aswell as be able to see if they are pursuring the right major for them. 
+After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision.
+Aswell as be able to see if they are pursuring the right major for them.
 
 
 ## 🦜 References
