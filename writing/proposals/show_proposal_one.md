@@ -36,22 +36,17 @@ A brief look into the various college majors and career futures in the field.
 
 With an allegheny college dean we will discuss the various majors and how to make the major decision.
 
-
 - **Title**: Undecided !?
 - **Host**: Robert Russell
 - **Guest**: Allegheny College Dean
 
 ## 📝 Show Objectives
 
-
-
 - **Objective One**: Better understanding of the options available when deciding a major.
 - **Objective Two**: Understand the decision shouldn't be rush and it is okay to not know exactly what you want yet.
 - **Objective Three**: Understand all things that need to taken into consideration and see from an advisor how they came to their decision.
 
 ## 📚 Sample Questions
-
-
 
 - **Question One**: What introductory classes would you recommend to an undecided/first year student take?
 - **Question Two**: Thinking back what questions did you ask to figure out your major decision?
@@ -62,7 +57,6 @@ With an allegheny college dean we will discuss the various majors and how to mak
 - **Justification for Question Three**:To give a conclusion to the episode and the guest is able to give great insight to our audience.
 
 ## 🎉 Show Description
-
 
 The podcast episode titled "Undecided!?" has the goal of providing inspiration and clarity for undecided and/or first year college students. In this episode we will be able to give an overview of various majors. Allowing for the audience to look further and see what career options follow the degree. While helping expand on stratagies and questions when makinging these major decisions.
 
@@ -75,13 +69,8 @@ I believe as a an episode on our podcast it would be best suited as an introduct
 After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision.
 Aswell as be able to see if they are pursuring the right major for them.
 
-
 ## 🦜 References
-
-
 
 - **Reference One**: [usnews](https://www.usnews.com/education/blogs/college-admissions-playbook/articles/pros-cons-of-applying-to-college-as-an-undecided-major)
 - **Reference Two**: [Futurescape](https://futurescape.asa.org/?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lRuFihfPx0WWYLiaewMd1Ym7AtEcXtlTXpGEUKJNxt2w1qkToNYNzBoCCXYQAvD_BwE)
 - **Reference Three**: [StudyPoint](https://www.studypoint.com/expert-advice/what-can-i-do-this-summer-to-help-narrow-down-a-ma/)
-
-
