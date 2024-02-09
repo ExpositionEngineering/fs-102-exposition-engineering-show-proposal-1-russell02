@@ -30,7 +30,7 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-A brief look into the various college majors and career futures in the field. 
+A brief look into the various college majors and career futures in the field.
 
 ## 🔬 Show Details
 
@@ -72,5 +72,7 @@ Aswell as be able to see if they are pursuring the right major for them.
 ## 🦜 References
 
 - **Reference One**: [usnews](https://www.usnews.com/education/blogs/college-admissions-playbook/articles/pros-cons-of-applying-to-college-as-an-undecided-major)
+
 - **Reference Two**: [Futurescape](https://futurescape.asa.org/?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lRuFihfPx0WWYLiaewMd1Ym7AtEcXtlTXpGEUKJNxt2w1qkToNYNzBoCCXYQAvD_BwE)
+
 - **Reference Three**: [StudyPoint](https://www.studypoint.com/expert-advice/what-can-i-do-this-summer-to-help-narrow-down-a-ma/)
