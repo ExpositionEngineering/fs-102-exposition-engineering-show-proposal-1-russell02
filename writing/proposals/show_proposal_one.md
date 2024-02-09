@@ -68,10 +68,12 @@ The podcast episode titled "Undecided!?" has the goal of providing inspiration a
 
 The show will be hosted by myself and the guest I am hoping will be Erin o'Day-Frye. Having Erin on the show would be a great addition because she works with plenty incoming undecided students so her experience will be perfect to share. Speaking on how much time our college allows for a decision and what other colleges may have in place. All while talking about what questons to ask yourself during the process of deciding. Even diving into what Erin did to decide herself.
 
-I believe as a an episode on our podcast it would be best suited as an introductory episode. Where we meet most of our audience at where they are curently at undecided. Giving a smooth Transition into the following episodes because we are setting the base early.
+I believe as a an episode on our podcast it would be best suited as an introductory episode. Where we meet most of our audience at where they are curently at undecided. Giving a smooth Transition into the following episodes because we are setting the base early. This will be amazing because the other episodes will dive way in depth to a specific major.
+
 ## 📢 Call to Action
 
-After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision. Aswell as be able to see if they are pursuring the right major for them. 
+After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision. 
+Aswell as be able to see if they are pursuring the right major for them. 
 
 
 ## 🦜 References
