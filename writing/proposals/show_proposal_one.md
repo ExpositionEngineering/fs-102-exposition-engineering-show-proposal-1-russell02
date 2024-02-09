@@ -18,13 +18,11 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Robert Russell
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
-
+"I adhered to the Allegheny College Honor Code while completing this project."
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -32,71 +30,57 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+A brief look into the various college majors and career futures in the field.
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
+With an allegheny college dean we will discuss the various majors and how to make the major decision.
 
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
+- **Title**: Undecided !?
 
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Host**: Robert Russell
+
+- **Guest**: Allegheny College Dean
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
+- **Objective One**: Better understanding of the options available when deciding a major.
 
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective Two**: Understand the decision shouldn't be rush and it is okay to not know exactly what you want yet.
+
+- **Objective Three**: Understand all things that need to taken into consideration and see from an advisor how they came to their decision.
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
+- **Question One**: What introductory classes would you recommend to an undecided/first year student take?
 
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
+- **Question Two**: Thinking back what questions did you ask to figure out your major decision?
 
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
+- **Question Three**: What advice would you give to an undecided student right now?
 
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**: To better equip the student with ideas on what directions to go in terms of classes to take.
+
+- **Justification for Question Two**: Insight into the mental process of figuring out your major.
+
+- **Justification for Question Three**:To give a conclusion to the episode and the guest is able to give great insight to our audience.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+The podcast episode titled "Undecided!?" has the goal of providing inspiration and clarity for undecided and/or first year college students. In this episode we will be able to give an overview of various majors. Allowing for the audience to look further and see what career options follow the degree. While helping expand on stratagies and questions when makinging these major decisions.
 
+The show will be hosted by myself and the guest I am hoping will be Erin o'Day-Frye. Having Erin on the show would be a great addition because she works with plenty incoming undecided students so her experience will be perfect to share. Speaking on how much time our college allows for a decision and what other colleges may have in place. All while talking about what questons to ask yourself during the process of deciding. Even diving into what Erin did to decide herself.
+
+I believe as a an episode on our podcast it would be best suited as an introductory episode. Where we meet most of our audience at where they are curently at undecided. Giving a smooth Transition into the following episodes because we are setting the base early. This will be amazing because the other episodes will dive way in depth to a specific major.
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
-
-TODO: Write at least two sentences that explain the call to action for this episode.
+After this episode I would like for the viewer to be able to reflect onto themsleves and see what goes into making a college decision.
+Aswell as be able to see if they are pursuring the right major for them.
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
+- **Reference One**: [usnews](https://www.usnews.com/education/blogs/college-admissions-playbook/articles/pros-cons-of-applying-to-college-as-an-undecided-major)
 
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
+- **Reference Two**: [Futurescape](https://futurescape.asa.org/?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lRuFihfPx0WWYLiaewMd1Ym7AtEcXtlTXpGEUKJNxt2w1qkToNYNzBoCCXYQAvD_BwE)
 
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+- **Reference Three**: [StudyPoint](https://www.studypoint.com/expert-advice/what-can-i-do-this-summer-to-help-narrow-down-a-ma/)
