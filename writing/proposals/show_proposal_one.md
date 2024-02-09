@@ -37,23 +37,31 @@ A brief look into the various college majors and career futures in the field.
 With an allegheny college dean we will discuss the various majors and how to make the major decision.
 
 - **Title**: Undecided !?
+
 - **Host**: Robert Russell
+
 - **Guest**: Allegheny College Dean
 
 ## 📝 Show Objectives
 
 - **Objective One**: Better understanding of the options available when deciding a major.
+
 - **Objective Two**: Understand the decision shouldn't be rush and it is okay to not know exactly what you want yet.
+
 - **Objective Three**: Understand all things that need to taken into consideration and see from an advisor how they came to their decision.
 
 ## 📚 Sample Questions
 
 - **Question One**: What introductory classes would you recommend to an undecided/first year student take?
+
 - **Question Two**: Thinking back what questions did you ask to figure out your major decision?
+
 - **Question Three**: What advice would you give to an undecided student right now?
 
 - **Justification for Question One**: To better equip the student with ideas on what directions to go in terms of classes to take.
+
 - **Justification for Question Two**: Insight into the mental process of figuring out your major.
+
 - **Justification for Question Three**:To give a conclusion to the episode and the guest is able to give great insight to our audience.
 
 ## 🎉 Show Description
