@@ -63,8 +63,6 @@ With an allegheny college dean we will discuss the various majors and how to mak
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
 
 The podcast episode titled "Undecided!?" has the goal of providing inspiration and clarity for undecided and/or first year college students. In this episode we will be able to give an overview of various majors. Allowing for the audience to look further and see what career options follow the degree. While helping expand on stratagies and questions when makinging these major decisions.
 
@@ -78,19 +76,10 @@ After this episode I would like for the viewer to be able to reflect onto themsl
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
 
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
 
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
+- **Reference One**: [usnews](https://www.usnews.com/education/blogs/college-admissions-playbook/articles/pros-cons-of-applying-to-college-as-an-undecided-major)
+- **Reference Two**: [Futurescape](https://futurescape.asa.org/?gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lRuFihfPx0WWYLiaewMd1Ym7AtEcXtlTXpGEUKJNxt2w1qkToNYNzBoCCXYQAvD_BwE)
+- **Reference Three**: [StudyPoint](https://www.studypoint.com/expert-advice/what-can-i-do-this-summer-to-help-narrow-down-a-ma/)
 
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+
